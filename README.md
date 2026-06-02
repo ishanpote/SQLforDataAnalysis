@@ -86,7 +86,10 @@ CREATE INDEX IF NOT EXISTS idx_orders_product ON orders(product_id);
 ---
 
 ## 📊 Verification Outputs & Screenshots
-(Run your script, take screen captures from DB Browser for SQLite, store them in a local folder within this repo, and map them below)
+<img width="799" height="898" alt="Screenshot 2026-06-02 133604" src="https://github.com/user-attachments/assets/895a9d99-46b2-4d48-9aaa-f205d551e094" />
+<img width="798" height="933" alt="Screenshot 2026-06-02 133719" src="https://github.com/user-attachments/assets/2345aed4-28f8-4dda-bee4-92fd2c08e898" />
+<img width="678" height="694" alt="Screenshot 2026-06-02 133825" src="https://github.com/user-attachments/assets/0598c907-2194-4324-89f1-4959b531b1b9" />
+<img width="751" height="686" alt="Screenshot 2026-06-02 133948" src="https://github.com/user-attachments/assets/48c0fff9-32cc-4bf6-a4be-3bc7bf7d7c1c" />
 
 * **Sub-Category Results:** Returns 17 rows tracking revenue performance. (Isolates Tables and Bookcases as net-negative loss leaders).
 
